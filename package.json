@@ -22,24 +22,32 @@
   },
   "homepage": "https://github.com/davidychow87/react-pathfinder#readme",
   "dependencies": {
+    "d3": "^4.13.0",
     "lodash": "^4.17.5",
     "prop-types": "^15.6.0",
     "radium": "^0.19.6",
     "react": "^16.2.0",
+    "styled-components": "^3.1.6"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
     "babel-preset-react": "^6.24.1",
-    "eslint": "^4.18.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "eslint": "^4.16.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.6.1",
+    "eslint-plugin-react": "^7.6.0",
     "eslint-watch": "^3.1.3",
-    "polished": "^1.9.2",
-    "react-dom": "^16.2.0",
-    "styled-components": "^3.1.6"
+    "polished": "^1.9.0",
+    "styled-components": "^3.0.2",
+    "react-dom": "^16.2.0"
   }
 }
